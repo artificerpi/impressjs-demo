@@ -24,4 +24,5 @@ hovercraft index.rst  -p 8080
 - G   跳到某一页
 - P   打开演讲者控制台
 
-
+## 参考
+- [Hovercraft官方使用文档](https://hovercraft.readthedocs.io/en/latest/introduction.html)
